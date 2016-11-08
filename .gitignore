@@ -1,0 +1,3 @@
+# to ignore unnecessary files
+
+sample-nodejs-app/node_modules/

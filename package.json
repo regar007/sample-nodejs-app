@@ -1,0 +1,23 @@
+{
+  "name": "Sample NodeJs App",
+  "main": "server.js",
+  "version": "1.0.0",
+  "description": "This project is simplest setup of a NodeJs application on your system",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/regar007/sample-nodejs-app.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Ashok Regar <regar.ashok7@gmail.com> ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regar007/sample-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/regar007/sample-nodejs-app",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}
